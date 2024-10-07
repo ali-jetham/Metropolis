@@ -1,0 +1,10 @@
+.idea/
+.plastic/
+.vs/
+.vscode/
+/Assets/*
+!/Assets/Scripts/
+Logs/
+Packages/
+UserSettings/
+.vsconfig
